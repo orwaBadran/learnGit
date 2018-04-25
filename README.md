@@ -1,2 +1,2 @@
 # learnGit
-This account used for learning git
+This repository used for learning git
